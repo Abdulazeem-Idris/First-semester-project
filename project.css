@@ -281,3 +281,242 @@ article{
     /*text-align: center;
     gap: 434px; */
 }
+.wcs{
+    width: 100%;
+    height: 500px;
+    background: transparent;
+    display: flex;
+    margin-top: 128px;
+    padding-left: 8%;
+    /* overflow: hidden; */
+}
+.left-flex{
+    width: 35%;
+    background: transparent;
+    padding-top: 15px;
+}
+.left-flex img{
+    width: 2%;
+    height: 48px;
+    /* margin-left:; */
+    float: left;
+}
+.left-flex h1{
+    color: #141414;
+    font-size: 38px;
+    margin-left: 6%;
+    /* font-family: Gilroy-Bold; */
+    line-height: 32px;
+}
+.left-flex span{
+    color: #0065FE;
+}
+.left-flex p{
+    font-size: 16px;
+    line-height: 28px;
+    margin-left: 6%;
+    margin-top: 16px;
+}
+.right-flex{
+    width: 65%;
+    background: transparent;
+    /* margin-left: 7%; */
+    /* display: flex; */
+}
+.top-right-flex{
+    width: 100%;
+    background: transparent;
+    height: 250px;
+    /* display: flex; */
+}
+.up-1{
+    display: flex;
+    justify-content:flex-start;
+    /* margin-left: 15%; */
+}
+.first-image-1{
+    width: 45%;
+    height: 90px;
+    float: left;
+}
+.first-image-2{
+    width: 40%;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 5%;
+}
+.down-1{
+    width: 100%;
+    display: flex;
+    padding-left: 10%;
+    margin-top: 20px;
+}
+.lower-text{
+    margin-left: 5%;
+}
+.bottom-right-flex{
+    width: 100%;
+    background: transparent;
+    height: 250px;
+}
+.up-2{
+    display: flex;
+    justify-content:flex-start;
+}
+.second-image-1{
+    width: 15%;
+    height: 70px;
+    float: left;
+    margin-left: 9%;
+}
+.second-image-2{
+    width: 40%;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 14%;
+}
+.down-2{
+    width: 100%;
+    display: flex;
+    padding-left: 10%;
+    margin-top: 20px;
+}
+.low-text{
+    margin-left: 5%;
+}
+.price{
+    width: 100%;
+    height: 800px;
+    /* background: teal; */
+}
+.top-text{
+    width: 100%;
+}
+.top-text h1{
+    text-align: center;
+    font-size: 40px;
+}
+.top-text h1 span{
+    color: #0065FE;
+}
+.top-text p{
+    text-align: center;
+    margin-top: 10px;
+}
+.card{
+    width: 100%;
+    height: 600px;
+    /* background: blue; */
+    margin-top: 68px;
+    /* padding-top: 80px; */
+    display: flex;
+}
+.card-1{
+    width: 25.5%;
+    height: 400px;
+    margin-top: 80px;
+    margin-left: 7%;
+    padding-top: 20px;
+    border-radius: 12px;
+    border: 0.4px solid #005AE2;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius:0px;
+    padding-left: 5%;
+    float: left;
+}
+.basic{
+    font-size: 20px;
+}
+/* .below-basic{
+    margin-top: 15px;
+    font-size: 18px;
+    line-height: 50px;
+} */
+.below-basic-1{
+    font-size: 16px;
+    line-height: 45px;
+}
+.below-basic-1 img{
+    margin-right: 10px;
+}
+.card-2{
+    width: 35%;
+    height: 600px;
+    background: #1E3448;
+    padding-top: 20px;
+    border-radius: 15px;
+    padding-top: 80px;
+    padding-left: 5%;
+    float: left;
+    color: #fff;
+}
+.card-2 h1{
+    font-size: 42px;
+}
+.prof{
+    font-size: 20px;
+}
+.below-prof-1{
+    font-size: 16px;
+    line-height: 45px;
+}
+.below-prof-1 img{
+    margin-right: 10px;
+    color: #fff;
+}
+.card-3{
+    width: 25.5%;
+    height: 400px;
+    background: #fff;
+    margin-top: 80px;
+    /* margin-left: 10%; */
+    padding-top: 20px;
+    border-radius: 12px;
+    border: 0.4px solid #005AE2;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius:0px;
+    padding-left: 5%;
+    /* float: left; */
+}
+.team{
+    font-size: 20px;
+}
+.below-team-1{
+    font-size: 16px;
+    line-height: 45px;
+}
+.below-team-1 img{
+    margin-right: 10px;
+}
+.custom-button{
+    width: 100%;
+    height: 200px;
+    background: transparent;
+    display: flex;
+    align-items: center;
+}
+.first-button{
+    width: 16%;
+    height: 50px;
+    border-radius: 25px;
+    border: 0.4px solid #005AE2;
+    font-size: 18px;
+    background: #fff;
+    color: #0065FE;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 15px;
+    margin-left: 33%;
+}
+.second-button{
+    width: 16%;
+    height: 50px;
+    border-radius: 25px;
+    font-size: 18px;
+    background: #0065FE;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 15px;
+    margin-left: 2%;
+}
